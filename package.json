@@ -1,6 +1,6 @@
 {
-  "name": "lru-native",
-  "version": "0.4.0",
+  "name": "node-lru-native",
+  "version": "0.4.2",
   "description": "a native LRU cache implementation",
   "devDependencies": {
     "chai": "latest",
